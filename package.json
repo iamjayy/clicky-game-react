@@ -2,7 +2,7 @@
   "name": "nba-clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iamjayy/clicky-game-react",
+  "homepage": "https://iamjayy.github.io/clicky-game-react/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
